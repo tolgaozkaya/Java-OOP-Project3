@@ -1,5 +1,5 @@
 # Coffee Shop ☕
-_Engin Demiroğ, Java Kursu, Hafta-3 (Ödev) Java OOP Çalışması_
+_Engin Demiroğ, Java Kursu, Hafta-4 (Ödev) Java OOP Çalışması_
 
 **Gereksinimler:**
 
